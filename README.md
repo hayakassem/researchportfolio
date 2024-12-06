@@ -23,7 +23,7 @@ I am a multidisciplinary researcher with a background in philosophy, politics, e
 - Quantified systemic racial and economic biases in Western border selectivity using statistical correlation studies and regression analysis.
 - Contextualised findings within postcolonial theories, linking border practices to global inequity.
 
-### Scaling Data and Societies: Inequality at Scale
+### Inequality at Scale
 - Analysed systemic disparities in Instagram networks, using automated bots for data extraction and network analysis with Python and Gephi.
 - Highlighted structural inequalities in connectivity, revealing patterns of privilege and exclusion.
 
