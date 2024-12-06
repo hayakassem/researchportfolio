@@ -1,0 +1,27 @@
+theme: jekyll-al-folio
+
+title: "Your Site Title"
+description: "A description for your site"
+baseurl: "" # Base URL for your site, e.g., /blog
+url: "https://your-site-url.com" # The URL of your site
+
+# Collections
+collections:
+  news:
+    output: true
+  projects:
+    output: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude these files from the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
